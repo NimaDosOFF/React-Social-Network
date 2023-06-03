@@ -1,0 +1,12 @@
+.nav {
+    grid-area: n;
+    background-color: #778899;
+    padding: 10px;
+    border-radius: 5px;
+}
+.actual {
+    margin-top: 50px;
+    color: #F0F8FF;
+
+}
+
